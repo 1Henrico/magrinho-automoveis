@@ -68,7 +68,7 @@ const Footer = () => {
         <div className="border-t border-border pt-8 mt-12">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-sm text-muted-foreground">
-              © 2024 Magrinho Automóveis. Todos os direitos reservados.
+              © 2025 Magrinho Automóveis. Todos os direitos reservados.
             </p>
             <div className="flex space-x-6 text-sm">
               <a href="#" className="text-muted-foreground hover:text-luxury-red transition-colors">Política de Privacidade</a>
