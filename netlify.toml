@@ -9,7 +9,7 @@
   force = true
 
 # Optional: custom headers for caching (uncomment and tweak if needed)
-; [[headers]]
-;  for = "/*"
-;  [headers.values]
-;    X-Frame-Options = "DENY"
+# [[headers]]
+#  for = "/*"
+#  [headers.values]
+#    X-Frame-Options = "DENY"
